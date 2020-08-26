@@ -4,10 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d dist"
   },
   "author": "Helon Roop",
   "license": "MIT",
+  "homepage": "https://helondci.github.io/g-fonts",
   "dependencies": {
     "gh-pages": "^3.1.0"
   }
